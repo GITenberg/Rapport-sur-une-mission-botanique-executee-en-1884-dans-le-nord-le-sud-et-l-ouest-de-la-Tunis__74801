@@ -1,0 +1,38 @@
+_repo: Rapport-sur-une-mission-botanique-executee-en-1884-dans-le-nord-le-sud-et-l-ouest-de-la-Tunis__74801
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Letourneux, A. (Aristide)
+    alias: Letourneux, Aristide
+    birthdate: 1820
+    deathdate: 1891
+    gutenberg_agent_id: '57654'
+    url: http://www.gutenberg.org/2009/agents/57654
+    wikipedia: https://fr.wikipedia.org/wiki/Aristide_Letourneux
+description: ''
+gutenberg_issued: '2024-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74801'
+language: fr
+pgterms:marc904: https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001103700055
+pgterms:marc905: 20241119082232letourneux
+pgterms:marc906: '1887'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Bibliothèque municipale de Lyon/Numelyo)
+publication_note: '  $aParis :$bImprimerie nationale, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Exploration scientifique de la Tunisie. Botanique.
+subjects:
+- !lcsh 'Tunisia -- Description and travel'
+- !lcsh 'Plants -- Tunisia'
+- !lcsh 'Scientific expeditions -- Tunisia'
+- !lcc 'DT'
+- !lcc 'QK'
+- GITenberg
+title: Rapport sur une mission botanique exécutée en 1884 dans le nord, le sud et
+  l'ouest de la Tunisie
+url: http://www.gutenberg.org/ebooks/74801
