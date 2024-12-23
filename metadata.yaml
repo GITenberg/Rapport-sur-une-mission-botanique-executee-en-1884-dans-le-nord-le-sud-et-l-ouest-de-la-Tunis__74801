@@ -1,5 +1,8 @@
 _repo: Rapport-sur-une-mission-botanique-executee-en-1884-dans-le-nord-le-sud-et-l-ouest-de-la-Tunis__74801
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74801-h/images/cover.jpg
 creator:
   author:
     agent_name: Letourneux, A. (Aristide)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57654
     wikipedia: https://fr.wikipedia.org/wiki/Aristide_Letourneux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74801#Rapport-sur-une-mission-botanique-executee-en-1884-dans-le-nord-le-sud-et-l-ouest-de-la-Tunis_
 gutenberg_issued: '2024-11-26'
 gutenberg_type: Text
 identifiers:
